@@ -18,7 +18,7 @@
 				<version>2.5.2</version>
 				<configuration>
 					<appendAssemblyId>false</appendAssemblyId>
-					<finalName>CleanupScripts</finalName>
+					<finalName>Prakash</finalName>
 					<descriptors>
 						<descriptor>${basedir}/assembly.xml</descriptor>
 					</descriptors>
