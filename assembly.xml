@@ -13,7 +13,7 @@
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
 			<includes>
-				<include>*</include>
+				<include>file*</include>
 				<include>*</include>
 			</includes>
 		</fileSet>
