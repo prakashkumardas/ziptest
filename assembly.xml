@@ -13,8 +13,8 @@
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
 			<includes>
-				<include>*.ksh</include>
-				<include>*.properties</include>
+				<include>*</include>
+				<include>*</include>
 			</includes>
 		</fileSet>
 	</fileSets>
