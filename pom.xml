@@ -20,7 +20,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<finalName>Prakash</finalName>
 					<descriptors>
-						<descriptor>${basedir}/assembly.xml</descriptor>
+						<descriptor>${basedir}/prakash.xml</descriptor>
 					</descriptors>
 				</configuration>
 				<executions>
