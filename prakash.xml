@@ -14,7 +14,7 @@
     </fileSets>
     <files>
         <file>
-            <source> ${project.build.directory}</source>
+            <source> ${WORKSPACE}</source>
             <outputDirectory>/</outputDirectory>
         </file>
     </files>
